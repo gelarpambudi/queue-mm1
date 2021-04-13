@@ -31,5 +31,5 @@
    ```
 
 ### Reference
-[@Simulating a Queueing System in Python](https://towardsdatascience.com/simulating-a-queuing-system-in-python-8a7d1151d485)
+[Simulating a Queueing System in Python](https://towardsdatascience.com/simulating-a-queuing-system-in-python-8a7d1151d485)
 
