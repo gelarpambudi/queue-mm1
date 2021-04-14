@@ -25,7 +25,7 @@ class Simulation:
         self.total_wait_time += (self.num_in_q*(t_next_event-self.clock))
         self.clock=t_next_event
                 
-        if self.t_arrival<self.t_departure1:
+        if self.t_arrival < self.t_departure1:
             self.arrival()
         else:
             self.server()
